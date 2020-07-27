@@ -1,0 +1,1 @@
+String sampleDataCategoryFilterItems = r'''{"data":[{"id":1,"title":"Women"},{"id":2,"title":"Men's"},{"id":3,"title":"Kids"},{"id":4,"title":"Home & Living"}]}''';
